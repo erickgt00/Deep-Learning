@@ -8,4 +8,4 @@ Presentaciones:
 
 > Práctica 1: [Red Neuronal Artificial]()
 
-> Práctica 2: [Propagación Hacia Delante]()
+> Práctica 2: [Propagación Hacia Delante](https://github.com/erickgt00/Deep-Learning/blob/main/Propagacion_Hacia_Delante.ipynb)
