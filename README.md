@@ -6,7 +6,7 @@ Presentaciones:
 
 ## Tareas y Prácticas
 
-> Práctica 1: [Red Neuronal Artificial]()
+> Práctica 1: [Neurona Artificial](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Neurona.ipynb)
 
 > Práctica 2: [Propagación Hacia Delante y Hacia Atrás](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Propagacion_Hacia_Delante.ipynb)
 
