@@ -15,3 +15,5 @@ Presentaciones:
 > Práctica 4: [Simulación de Retiro Temprano](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Simulacion.ipynb)
 
 > Práctica 5: [Predicción con Keras](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Prediccion_con_Keras.ipynb)
+
+> Tarea: [Predicción del Precio de Microsoft](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Prediccion_Microsoft.ipynb)
