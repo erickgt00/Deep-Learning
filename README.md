@@ -1,9 +1,5 @@
 # Deep-Learning
 
-## Material de Clases
-
-Presentaciones:
-
 ## Tareas y Prácticas
 
 > Práctica 1: [Neurona Artificial](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Neurona.ipynb)
