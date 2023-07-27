@@ -13,3 +13,5 @@
 > Práctica 5: [Predicción con Keras](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Prediccion_con_Keras.ipynb)
 
 > Tarea: [Predicción del Precio de Microsoft](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/Prediccion_Microsoft.ipynb)
+
+> Proyecto Final: [Predicción de Inflación en México con Redes Neuronales](https://github.com/erickgt00/Deep-Learning/blob/main/Practicas/ProyectoFinal.ipynb)
